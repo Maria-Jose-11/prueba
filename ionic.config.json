@@ -1,0 +1,7 @@
+{
+  "name": "chat-with-images",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
